@@ -80,6 +80,10 @@
         </div>
     </header>
 
+
+ <!-- Working on the Navigation menu and calendar tonignt JONASAIAH-->
+
+
     <div class="container">
         <div class="column-left">
             <p>This is the content for the left column.</p>
@@ -100,9 +104,12 @@
 
 
     <footer>
-        <p>© Campus content. Marco H, Kaitlyn F, Jonashia G, Mariam, Sammule</p>
+        <p>© Campus content. Marco H, Kaitlyn F, Jonasiah G, Mariam, Sammule</p>
     </footer>
 
-    
+
+
+
+
 </body>
 </html>
